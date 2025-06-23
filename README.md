@@ -1,5 +1,5 @@
 # Gaussian-Splatting-
-执行命令：
+# 执行命令：
 # python train2.py \
 #  --source_path data \
 #  --model_path output \
